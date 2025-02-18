@@ -1,0 +1,9 @@
+/* Add your custom styles to this file */
+#hero {
+    background-color: #2ecc71;
+}
+
+.social-links a {
+    text-decoration: none;
+    font-weight: bold;
+}
